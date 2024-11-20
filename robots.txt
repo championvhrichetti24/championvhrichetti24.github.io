@@ -1,0 +1,7 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://championvhrichetti24.github.io/championvhrichetti24_github_io_zp528_13.txt
+Sitemap: https://championvhrichetti24.github.io/championvhrichetti24_github_io_zp528_19.txt
+Sitemap: https://championvhrichetti24.github.io/championvhrichetti24_github_io_zp528_24.txt
+Sitemap: https://championvhrichetti24.github.io/championvhrichetti24_github_io_zp528_4.txt
